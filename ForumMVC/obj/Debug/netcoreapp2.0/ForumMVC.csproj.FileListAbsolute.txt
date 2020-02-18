@@ -1,0 +1,15 @@
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\bin\Debug\netcoreapp2.0\ForumMVC.deps.json
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\bin\Debug\netcoreapp2.0\ForumMVC.runtimeconfig.json
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\bin\Debug\netcoreapp2.0\ForumMVC.runtimeconfig.dev.json
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\bin\Debug\netcoreapp2.0\ForumMVC.dll
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\bin\Debug\netcoreapp2.0\ForumMVC.pdb
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\bin\Debug\netcoreapp2.0\ForumMVC.Data.dll
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\bin\Debug\netcoreapp2.0\ForumMVC.Data.pdb
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\ForumMVC.csprojAssemblyReference.cache
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\ForumMVC.csproj.CoreCompileInputs.cache
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\ForumMVC.AssemblyInfoInputs.cache
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\ForumMVC.AssemblyInfo.cs
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\ForumMVC.csproj.CopyComplete
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\ForumMVC.dll
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC\obj\Debug\netcoreapp2.0\ForumMVC.pdb
