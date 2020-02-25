@@ -7,3 +7,12 @@ C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC.Data\obj\Debug
 C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.AssemblyInfo.cs
 C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.dll
 C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.pdb
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\bin\Debug\netcoreapp2.0\ForumMVC.Data.deps.json
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\bin\Debug\netcoreapp2.0\ForumMVC.Data.dll
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\bin\Debug\netcoreapp2.0\ForumMVC.Data.pdb
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.csprojAssemblyReference.cache
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.csproj.CoreCompileInputs.cache
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.AssemblyInfoInputs.cache
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.AssemblyInfo.cs
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.dll
+C:\mahens\Personal\WorkBench\Core\MVC\MVC Forum\ForumMvc_repo\ForumMVC\ForumMVC.Data\obj\Debug\netcoreapp2.0\ForumMVC.Data.pdb

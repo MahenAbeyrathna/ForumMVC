@@ -12626,11 +12626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mahens\\Personal\\WorkBench\\Core\\MVC\\MVC Forum\\ForumMVC\\ForumMVC.Data\\ForumMVC.Data.csproj",
+      "projectUniqueName": "C:\\mahens\\Personal\\WorkBench\\Core\\MVC\\MVC Forum\\ForumMvc_repo\\ForumMVC\\ForumMVC.Data\\ForumMVC.Data.csproj",
       "projectName": "ForumMVC.Data",
-      "projectPath": "C:\\mahens\\Personal\\WorkBench\\Core\\MVC\\MVC Forum\\ForumMVC\\ForumMVC.Data\\ForumMVC.Data.csproj",
+      "projectPath": "C:\\mahens\\Personal\\WorkBench\\Core\\MVC\\MVC Forum\\ForumMvc_repo\\ForumMVC\\ForumMVC.Data\\ForumMVC.Data.csproj",
       "packagesPath": "C:\\Users\\msa\\.nuget\\packages\\",
-      "outputPath": "C:\\mahens\\Personal\\WorkBench\\Core\\MVC\\MVC Forum\\ForumMVC\\ForumMVC.Data\\obj\\",
+      "outputPath": "C:\\mahens\\Personal\\WorkBench\\Core\\MVC\\MVC Forum\\ForumMvc_repo\\ForumMVC\\ForumMVC.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
